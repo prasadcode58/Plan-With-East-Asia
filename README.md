@@ -1,7 +1,7 @@
 # Plan-With-East-Asia
 A dynamic option selection page for a travelling agency site.
 <br/>
-This project is created using "React.js" with "JSX" and is locally build and bundled using "Vite.js".
+This project is created using "React.js" with "JSX", styled using "TailwindCSS" and is build and bundled using "Vite.js".
 <br/>
 The project uses color scheme from "Adobe Color", Site logo from "Flaticons" and is deployed on "Netlify".
 
@@ -14,6 +14,8 @@ This project uses,
 - [nodejs](https://nodejs.org/en)
 
 - [React.Js](https://react.dev/learn)
+
+- [TailwindCSS](https://tailwindcss.com/)
 
 - [Axios](https://axios-http.com/docs/intro)
 
